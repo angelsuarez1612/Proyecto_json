@@ -1,0 +1,732 @@
+{"directorios": {
+    "directorio": [
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Repostería - Goloso",
+                    "id": 953,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Confiterías",
+                    "id": 965,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "<div>Madalenas de colores es una de las 18 pastelerías que pertenecen a Gijón Goloso. Especializada en la elaboración de cupcakes, también cuenta con otras especialidades: muffins, brownies y pasteles personalizados.<\/div><div><br/><\/div>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Libertad, 2 - 33206 Gijón",
+                {
+                    "content": "Libertad, 2 - 33206 Gijón",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f0/105303/1255x1600_v1_cartel.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "L-S : 9.30 a 14h y 17 a 21h. Domingo cerrado.",
+            "identificador": 10681,
+            "locale": "es",
+            "localizacion": {"rdfa-property": "http://www.w3.org/2002/12/cal#location"},
+            "nombre": {
+                "content": "Madalenas de colores",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/10681-madalenas-de-colores",
+            "send": "fecha-actualizacion2018-07-05 13:02:40 +0200",
+            "telefono": {
+                "content": "985 344 054",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Repostería - Goloso,Confiterías,Turismo",
+            "url": "http://www.gijon.es/directorios/show/10681-madalenas-de-colores",
+            "web": "www.madalenasdecolores.com"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Gijón card. Tarjeta turística",
+                    "id": 1227,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Compras",
+                    "id": 2750,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 165,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón Card",
+                    "id": 2741,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Repostería",
+                    "id": 963,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Confiterías",
+                    "id": 965,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "info@mokadifusion.com",
+            "descripcion": {
+                "content": "Desde su apertura hasta hoy, se distingue por una fabricación 100% artesanal, realizada con las mejores materias primas del mercado y una amplia oferta compuesta por elaboraciones de confitería tradicional y moderna, todo ello secundado por una atención personalizada. Los clientes pueden encontrar todo tipo de productos de pastelería, confitería, galletería, bombonería y repostería, tanto dulce como salada. Es una oferta de calidad, honrada y completa.<br/><br/>TOP 5: suprema de chocolate, mousse de sidra, tarta de arroz con leche, pomaradas de mazapán, canapés variados.<br/><br/><h4>Especialidad Gijón Goloso: Mini mouse de sidra -semifrío de crema inglesa perfumado con sidra natural de manzana-<br/><\/h4><p><\/p><p><strong><img src=\"/data/images/f0/f0/104062/500x360_v1__B241090copia.jpg\" alt=\"mini mouse de sidra\" class=\"nicedit_sin-alinear\" height=\"360\" width=\"500\" width=\"500\" height=\"360\"/><br/><\/strong><\/p><h4><strong>10% de descuento con <a href=\"http://www.gijon.info/page/5071-gijon-card\" title=\"Ir a http://www.gijon.info/private/172-noemif/page/5071-gijon-card\">Gijón Card<\/a><br/><\/strong><\/h4><p><strong>   <br/><\/strong><\/p><h3><strong>DESCANSA<\/strong><\/h3><div><strong>Abierto todos los días de la semana <\/strong><\/div><div><strong><br/><\/strong><\/div>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Avda. Castilla, 5",
+                {
+                    "content": "Avda. Castilla, 5",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 19 53 43",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f0/104056/2343x3543_v1__B241086copia2.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "8:30 a 20:30 h. S, D y Fes de 9 a 20:30 h",
+            "identificador": 10446,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.536265 -5.647938",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Moka",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/10446-moka",
+            "send": "fecha-actualizacion2018-09-20 14:28:21 +0200",
+            "telefono": {
+                "content": "985 36 02 55",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Repostería,Confiterías,Turismo",
+            "url": "http://www.gijon.es/directorios/show/10446-moka",
+            "web": "http://www.mokaconfiteria.com"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Catering",
+                    "id": 2425,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Club de Empresas de Turismo de Negocios",
+                    "id": 2898,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Repostería",
+                    "id": 963,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Confiterías",
+                    "id": 965,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Confiterías y heladerías",
+                    "id": 916,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "catering@balbona.com",
+            "descripcion": {
+                "content": "Somos una empresa asturiana con una reconocida trayectoria de más de 20 años, especializados en catering de alto standing.<br/><br/>Nos distingue la calidad de las materias primas y nuestro cuidado proceso de elaboración, acabado y presentación de platos.<br/><br/>Trabajamos bajo la supervisión de expertos cocineros en cualquier tipo de evento.<br/><br/><b>Contacto<\/b>: Pilar Trueba",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/ Leonardo Torres Quevedo, 17 - 33211 Roces",
+                {
+                    "content": "C/ Leonardo Torres Quevedo, 17 - 33211 Roces",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "+34 985 167 889",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f9/97180/190x110_v1_balbona.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": {},
+            "identificador": 10169,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.506502 -5.689893",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Balbona",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/10169-balbona",
+            "send": "fecha-actualizacion2017-07-24 11:53:11 +0200",
+            "telefono": {
+                "content": "+34 985 168 857",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Repostería,Confiterías,Confiterías y heladerías,Turismo",
+            "url": "http://www.gijon.es/directorios/show/10169-balbona",
+            "web": "http://www.balbona.com"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Gijón Goloso",
+                    "id": 885,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón Goloso",
+                    "id": 2329,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Repostería",
+                    "id": 963,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Confiterías",
+                    "id": 965,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón con Calidad",
+                    "id": 2897,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "Como no podía ser de otro modo habiendo creado los pelayinos, la confitería se encuentra a los pies de la escultura del triunfador de la batalla de Covadonga. Carlos destila veteranía y ganas a partes iguales. Ama su tierra y apuesta por el recetario tradicional asturiano en sus elaboraciones. Ojo también a su maravillosa crema pastelera y a los pasteles con avellana.<br/><br/><b>TOP 5<\/b>: pastel ruso, tartaletas de arroz con leche, carbayones, tarta de Asturias y rocas de San Lorenzo.<br/><br/><h4>Especialidad Goloso: Pelayos -Delicioso postre asturiano de mazapán de almendra con relleno de crema de manzana-<\/h4><p><img src=\"/data/images/f0/f0/103972/500x334_v1_Collada.jpg\" alt=\"pelayos\" class=\"nicedit_sin-alinear\" width=\"500\" height=\"334\"/><br/><\/p><br/><h3>DESCANSA<\/h3><b>Abierto todos los días de la semana.<br/><br/><\/b>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Plaza del Marqués, 10",
+                {
+                    "content": "Plaza del Marqués, 10",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f0/103929/5576x3722_v1__DSC2856-Editar.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "10.30 a 14.30 y 17.30 a 21.00 h. Abierto todos los días. VER y FIN/SEM 10.00 a 21.00 h. Cierra 25 de DIC y 1 de ENR. ",
+            "identificador": 10091,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.544981 -5.663484",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Collada",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/10091-collada",
+            "send": "fecha-actualizacion2018-09-12 08:11:53 +0200",
+            "telefono": {
+                "content": "+34 985 340 522",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Repostería,Confiterías,Turismo",
+            "url": "http://www.gijon.es/directorios/show/10091-collada",
+            "web": "https://www.confiteriacollada.com/"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Repostería - Goloso",
+                    "id": 953,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Confiterías",
+                    "id": 965,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Menéndez Pelayo, 4",
+                {
+                    "content": "Menéndez Pelayo, 4",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f4/44667/130x108_v1_forgaxes.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": {},
+            "identificador": 9544,
+            "locale": "es",
+            "localizacion": {"rdfa-property": "http://www.w3.org/2002/12/cal#location"},
+            "nombre": {
+                "content": "Sebastián",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/9544-sebastian",
+            "send": "fecha-actualizacion2014-01-22 12:06:26 +0100",
+            "telefono": {
+                "content": "985 364 940",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Repostería - Goloso,Confiterías,Turismo",
+            "url": "http://www.gijon.es/directorios/show/9544-sebastian",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Repostería - Goloso",
+                    "id": 953,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Confiterías",
+                    "id": 965,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón Goloso",
+                    "id": 885,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón con Calidad",
+                    "id": 2897,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón Goloso",
+                    "id": 2329,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "<p><\/p>Dicen que de casta le viene al galgo. Los Álvarez son otra de las grandes sagas reposteras, presente en la ciudad desde 1938. Son pioneros en muchas cosas, Miguel fue el creador del postre gijonés en 1980. Su casa ha sido un peregrinar de jóvenes que luego se han convertido en grandes pasteleros. Justo es reconocer que ha creado escuela y ha sido un Maestro con mayúscula.<br/><br/><b>Top 5<\/b>: Bombón de mazapán, trufa de naranja, curia romana (en navidades), dulce de manzana y postre gijonés.<br/><br/><h4>Especialidad: Tejas y florentinas - Crujiente de frutas y almendra sobre chocolate negro. Tejas de almendra (delicada pasta de almendra crujiente). <\/h4><img src=\"/data/images/f0/f0/103978/500x334_v1_La_Fe.jpg\" alt=\"tejas\" class=\"nicedit_sin-alinear\" width=\"500\" height=\"334\" width=\"500\" height=\"334\"/><br/><br/><h3>Descanso<\/h3><b>Lunes, excepto verano<br/><br/><\/b>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Periodista Adelflor, 3",
+                {
+                    "content": "Periodista Adelflor, 3",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f0/103948/5545x3702_v1__DSC2871-Editar.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "<b>M <\/b>a <b>J <\/b>de 8:30 a 14:30 h y 16:30 a 21:00 h. <b>V <\/b>a <b>D <\/b>de 8:30 a 21:00 h.Descanso: lunes, excepto verano y festivos.",
+            "identificador": 9543,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.537773 -5.662404",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "La Fé",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/9543-la-fe",
+            "send": "fecha-actualizacion2018-05-23 11:21:36 +0200",
+            "telefono": {
+                "content": "+34 985 351 651",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Repostería - Goloso,Confiterías,Turismo",
+            "url": "http://www.gijon.es/directorios/show/9543-la-fe",
+            "web": "http://confiterialafe.wix.com/confiterialafe"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Confiterías y heladerías",
+                    "id": 916,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo-Comercio",
+                    "id": 2664,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Repostería",
+                    "id": 963,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Confiterías",
+                    "id": 965,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Ruta de la Sidra",
+                    "id": 2895,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón Goloso",
+                    "id": 885,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "chokoreto-2010@hotmail.com",
+            "descripcion": {
+                "content": "Después de muchos años en uno de los obradores más laureados de la ciudad, Ana decidió ser valiente y abrir su propia pastelería en la que el chocolate tuviera el lugar que se merecía y las presentaciones fuera actuales y atractivas. Siete años después, se ha convertido en toda una referencia dulce y en un lugar donde desayunar, merendar o tomar un café.<br/><br/><b>TOP 5<\/b>: Pastas de té, bocaditos de chocolate, pasteles y bizcochos.<br/><br/><h4>Especialidad Gijón Goloso: Pirámide de chocolate -Delicioso bizcocho relleno de trufa especial de chocolate. Fusión perfecta entre tradición e innovación-<\/h4><h2><img src=\"/data/images/f0/f0/103973/500x334_v1__DSC3430.jpg\" alt=\"piramide de chocolate\" class=\"nicedit_sin-alinear\" width=\"500\" height=\"334\" width=\"500\" height=\"334\"/>  <br/><\/h2><h3>DESCANSA<\/h3><div><b>Abierto todos los días de la semana<\/b><\/div><div><br/><\/div>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Anselmo Solar, 31",
+                {
+                    "content": "Anselmo Solar, 31",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f0/103933/5611x3746_v1__DSC3423-Editar.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a viernes de 8.00 a 21.00 h y sábados y domingos de 8.00 a 15.00 y de 17.00 a 21.00 h.",
+            "identificador": 9503,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.528984 -5.644218",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Chokoreto",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/9503-chokoreto",
+            "send": "fecha-actualizacion2018-05-23 10:45:16 +0200",
+            "telefono": {
+                "content": "985 369 452",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Confiterías y heladerías,Repostería,Confiterías,Turismo",
+            "url": "http://www.gijon.es/directorios/show/9503-chokoreto",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Repostería - Goloso",
+                    "id": 953,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Saboreando - Confiterías",
+                    "id": 956,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Repostería",
+                    "id": 963,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Confiterías",
+                    "id": 965,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Ruta de la Sidra",
+                    "id": 2646,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo-Comercio",
+                    "id": 2664,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2011,
+                    "id": 13,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón Goloso",
+                    "id": 2329,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "correo@balbona.es",
+            "descripcion": {
+                "content": "Treinta y seís años han pasado y la familia Balbona sigue con la misma ilusión que el primer día, mimando cada uno de sus productos, buscando las mejores materias primas, ofreciendo el mejor servicio y cuidando cada detalle. Su oferta es de lo más variado, cruasanes, pasteles, mini pasteles, canapés, menús y una amplia gama de servcicios de catering de lo más sofisticados para eventos señalados, como inauguraciones a bodas. Todo un universo gastronómico y un placer para los sentidos.<br/><br/>TOP 5: Milhojas de fresa, tarta Ópera, suflés, merengues y &quot;La Pomarada&quot;<br/><br/><h4>Especialidad Goloso: Bosque Astur -Bizcocho de queso azul con interior de castaña y avellana crujiente-<\/h4><p><img src=\"/data/images/f0/f0/103970/500x334_v1_Balbona.jpg\" alt=\"bosque astur\" class=\"nicedit_sin-alinear\" width=\"500\" height=\"334\" width=\"500\" height=\"334\"/><br/><\/p><h3>DESCANSA<\/h3><div><b>Abierto todos los días<\/b><\/div><div><b><br/><\/b><\/div>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Cabrales, 90",
+                {
+                    "content": "Cabrales, 90",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f0/103931/5709x3811_v1__DSC3214-Editar.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "08:00 a 21:00 h.Cierra 1 de enero y 25 de diciembre.",
+            "identificador": 9496,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.543039 -5.661277",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Balbona",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/9496-balbona",
+            "send": "fecha-actualizacion2018-05-23 10:40:05 +0200",
+            "telefono": {
+                "content": "985 345 146",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Repostería - Goloso,Saboreando - Confiterías,Repostería,Confiterías,Turismo",
+            "url": "http://www.gijon.es/directorios/show/9496-balbona",
+            "web": "http://"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Repostería",
+                    "id": 963,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastronómica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón Goloso",
+                    "id": 885,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo-Comercio",
+                    "id": 2664,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón Card",
+                    "id": 2741,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Confiterías",
+                    "id": 965,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Ruta de la Sidra",
+                    "id": 2895,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón con Calidad",
+                    "id": 2897,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón Goloso",
+                    "id": 2329,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "obrador@piobrun.com",
+            "descripcion": {
+                "content": "Es el paraíso de los chocoadictos. Personalizan casi cualquier motivo, y se han especializado en regados de chocolate. Cuentan con un porfolio de más de 80 bombones diferentes creados en el obrador de Pío Brun, donde Rogelio Laviada sigue demostrando su experiencia y conocimiento en el manejo de las temperaturas y el cacao. Desde 2014 Marina Calvo se ha hecho cargo de la bombonería y ha dada un nuevo impulso al establecimiento.<br/><br/><b>TOP 5: <\/b>Troncos de praliné de almendra, trufa belga de café, músicos rellenos de praliné de avellana, piedras de Don Pelayo y gajos de naranja confitada con troceado de almendra.<br/><br/><h4>Especialidad Gijón Goloso: Trufa de manzana -Deliciosa crema de nata trufada con manzana y cobertura de exquisito chocolate con leche belga-<\/h4><strong><\/strong><img src=\"/data/images/f0/f0/103975/500x334_v1_Gloria.jpg\" alt=\"trufa de manzana\" class=\"nicedit_sin-alinear\" width=\"500\" height=\"334\" width=\"500\" height=\"334\"/><br/><br/><h4><span style=\"font-weight: bold;\">Descuento del 10% con la tarjeta turística Gijón Card<\/span><br/><\/h4><h3><span style=\"font-weight: bold;\">DESCANSA<\/span><\/h3><div><span style=\"font-weight: bold;\">Domingo<\/span><\/div><div><span style=\"font-weight: bold;\"><br/><\/span><\/div>",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Fernández Vallín, 2",
+                {
+                    "content": "Fernández Vallín, 2",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f0/103928/5820x3886_v1__DSC3192-Editar.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a viernes de 10.15 a 14.15 h y de 17.00 a 21.00 h. Sábados de 11.00 a 14.15 h. y 17.00 a 21.00 h.",
+            "identificador": 3343,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.539633 -5.662499",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Gloria",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/3343-gloria",
+            "send": "fecha-actualizacion2018-05-23 11:19:35 +0200",
+            "telefono": {
+                "content": "+ 34 985 172 661",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Repostería,Confiterías,Turismo",
+            "url": "http://www.gijon.es/directorios/show/3343-gloria",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Repostería",
+                    "id": 963,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Guia gastronómica",
+                    "id": 968,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón Goloso",
+                    "id": 885,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo-Comercio",
+                    "id": 2664,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Confiterías",
+                    "id": 965,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón Goloso",
+                    "id": 2329,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón con Calidad",
+                    "id": 2897,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 199,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "arguelleschocolatier@gmail.com",
+            "descripcion": {
+                "content": "Su nuevo espacio a supuesto el salto cualitativo definitivo para un pastelero que busca la calidad en todo lo que elabora. Tiene la ventaja de que pertenece a una saga de prestigio con orígienes en la cuenca del Nalón y el inconveniente de que en ocasiones el apellido pesa. Pero Toño a sabido labrarse su futuro a base de empuje y de no detenerse nunca. Su pastelería podría perfectamente estar ubicada en la Quinta Avenida. Así que no dejen de visitarla.<br/><br/>TOP 5: Bartolos, panetonne, bombones, helados artesanos italianos y el hojaldre.<div style=\"text-align: justify;\"><br/><h4>Especialidad: Latido de Argüelles -Sobre un crujiente sablé bretón de avellana una ganache de chocolate con leche y un contrapunto amargo en forma de placa de chocolate-<\/h4><img src=\"/data/images/f0/f0/103969/500x333_v1_Arguelles.jpg\" alt=\"latido\" class=\"nicedit_sin-alinear\" height=\"333\" width=\"500\" width=\"500\" height=\"333\"/><br/><br/><br/><br/><\/div><h3>Descansa<\/h3><b>Lunes<\/b>.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Celestino Junquera, 4",
+                {
+                    "content": "Celestino Junquera, 4",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f0/103925/5450x3638_v1__DSC2857-Editar.jpg",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "08:45 a 20:45 h. Descanso: lunes",
+            "identificador": 3339,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.539063 -5.658205",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Argüelles",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/3339-arguelles",
+            "send": "fecha-actualizacion2018-05-23 09:41:07 +0200",
+            "telefono": {
+                "content": "+34 985 359 888",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Repostería,Confiterías,Turismo",
+            "url": "http://www.gijon.es/directorios/show/3339-arguelles",
+            "web": ""
+        }
+    ],
+    "rdfa": true,
+    "rdfa-class": "http://www.geonames.org/ontology#Feature"
+}}
