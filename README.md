@@ -1,9 +1,9 @@
 # Proyecto_json
 <h2>Enunciado del ejercicio .json</h2>
 <ol type="1">
-  <li>Listar información. Hacer un ejercicio que liste cierta información.</li>
-  <li>Contar información. Hacer un ejercicio que muestre el total de veces que aparece una información.</li>
-  <li>Buscar o filtrar información. Pedir por teclado uno o varios datos y utilizarlos para hacer una búsqueda.</li>
-  <li>Buscar información relacionada. Es decir me pide buscar una información, pero muestra información relacionada a ella.</li>
-  <li>Ejercicio libre, piensa un tipo de ejercicio que sea diferente a los anteriores o una mezcla de alguno de ellos.</li>
+  <li>Listar los nombres de todas las empresas junto con sus categorías</li>
+  <li>Contar el número de categorías de cada empresa junto con el nombre de estas</li>
+  <li>Buscar identificador de una empresa y mostrar nombre,una descripción sobre la empresa y el número de teléfono de la misma</li>
+  <li>Introducir una categoría y mostrar todas las empresas que tienen esa categoría</li>
+  <li>Listar el correo electrónico de las empresas con más de 3 categorías</li>
 </ol>
