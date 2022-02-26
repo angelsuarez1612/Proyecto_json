@@ -516,7 +516,7 @@
                     "rdfa-property": "http://purl.org/dc/terms/subject"
                 }
             ]},
-            "correo-electronico": "correo@balbona.es",
+            "correo-electronico": "correo@valme.es",
             "descripcion": {
                 "content": "Treinta y seís años han pasado y la familia Balbona sigue con la misma ilusión que el primer día, mimando cada uno de sus productos, buscando las mejores materias primas, ofreciendo el mejor servicio y cuidando cada detalle. Su oferta es de lo más variado, cruasanes, pasteles, mini pasteles, canapés, menús y una amplia gama de servcicios de catering de lo más sofisticados para eventos señalados, como inauguraciones a bodas. Todo un universo gastronómico y un placer para los sentidos.<br/><br/>TOP 5: Milhojas de fresa, tarta Ópera, suflés, merengues y &quot;La Pomarada&quot;<br/><br/><h4>Especialidad Goloso: Bosque Astur -Bizcocho de queso azul con interior de castaña y avellana crujiente-<\/h4><p><img src=\"/data/images/f0/f0/103970/500x334_v1_Balbona.jpg\" alt=\"bosque astur\" class=\"nicedit_sin-alinear\" width=\"500\" height=\"334\" width=\"500\" height=\"334\"/><br/><\/p><h3>DESCANSA<\/h3><div><b>Abierto todos los días<\/b><\/div><div><b><br/><\/b><\/div>",
                 "rdfa-property": "http://purl.org/dc/terms/description"
@@ -541,7 +541,7 @@
                 "rdfa-property": "http://www.w3.org/2002/12/cal#location"
             },
             "nombre": {
-                "content": "Balbona",
+                "content": "Valme",
                 "rdfa-property": "http://www.geonames.org/ontology#name"
             },
             "rdfa-id": "http://www.gijon.es/directorios/show/9496-balbona",
